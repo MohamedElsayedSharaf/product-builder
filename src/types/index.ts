@@ -1,0 +1,1 @@
+export type product = 'title' | 'description' | 'image' | 'price' | 'category'
